@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am rico221 on github.
+  * I am ricoholics1 (https://keybase.io/ricoholics1) on keybase.
+  * I have a public key ASD6koAhBo5nfByGY3410oglSDiX2bF3gZjUrcbSL_AuKQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fa928021068e677c1c86637e35d28825483897d9b1778198d4adc6d22ff02e290a",
+      "host": "keybase.io",
+      "kid": "0120fa928021068e677c1c86637e35d28825483897d9b1778198d4adc6d22ff02e290a",
+      "uid": "fee66449386dd45ea1615b9f7ff08219",
+      "username": "ricoholics1"
+    },
+    "merkle_root": {
+      "ctime": 1568078105,
+      "hash": "0a2469ff4bd087487d1c43ff05c683482dd163c68328ef15d6a1a0bc76ab21a74a2129eebe7fbf528c1650fb34486d3a1da285f17cb31c5ebef8f51d12792167",
+      "hash_meta": "315eda80613a0eb38ba0c8eb809052a76c70acee4ae1e6af7855b2b810bc0c94",
+      "seqno": 6284209
+    },
+    "service": {
+      "entropy": "grcYcLhylisHSHxHCX53WJW/",
+      "name": "github",
+      "username": "rico221"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568078349,
+  "expire_in": 504576000,
+  "prev": "c406b2521d7819281c0d37adc0d4093e07cb144dba484c72e214510d899936c7",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASD6koAhBo5nfByGY3410oglSDiX2bF3gZjUrcbSL_AuKQo](https://keybase.io/ricoholics1), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+pKAIQaOZ3wchmN+NdKIJUg4l9mxd4GY1K3G0i/wLikKp3BheWxvYWTESpcCBcQgxAayUh14GSgcDTetwNQJPgfLFE26SExy4hRRDYmZNsfEILqkL6wyHz8Q2944XJO4Vv8aAy/iaMaLCQ2g2h9AFOTpAgHCo3NpZ8RARwJ2V81wujZ3Hw8M9DK77pNKvMzHDyk2iNOikEFBvm83k7kRMUxjUuyIppIJNDUvbG9Gr63ikvL6jNmCEjDdBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILNYZi5YzcybCj2EihbEtNiuiM+U66ftB3w84Nz1tMi+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/ricoholics1
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id ricoholics1
+```
